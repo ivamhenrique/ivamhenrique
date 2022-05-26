@@ -1,6 +1,6 @@
 # Olá, sou o <a href="https://github.com/ivamhenrique">Ivam Henrique</a>! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="35px">
 
-[![wakatime](https://wakatime.com/badge/user/d8eb8460-f125-424d-ae07-00b14a7f5060/project/014d530d-ddc3-44bf-adc4-df7770dd2a31.svg)](https://wakatime.com/badge/user/d8eb8460-f125-424d-ae07-00b14a7f5060/project/014d530d-ddc3-44bf-adc4-df7770dd2a31)
+[![wakatime](https://wakatime.com/badge/user/d8eb8460-f125-424d-ae07-00b14a7f5060.svg)](https://wakatime.com/@d8eb8460-f125-424d-ae07-00b14a7f5060)(https://wakatime.com/badge/user/d8eb8460-f125-424d-ae07-00b14a7f5060/project/014d530d-ddc3-44bf-adc4-df7770dd2a31)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivamhenrique/)](https://www.linkedin.com/in/ivamhenrique/)
 [![Github Badge](https://img.shields.io/badge/-%20Github-black?style=flat-square&logo=Github)](https://github.com/ivamhenrique)
 
